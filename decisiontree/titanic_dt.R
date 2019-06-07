@@ -1,6 +1,6 @@
 # load packages
 library(pacman)
-p_load(rpart, rpart.plot, RColorBrewer, tidyverse)
+p_load(rpart, rpart.plot, RColorBrewer, rattle, tidyverse)
 
 # load dataset
 train <- read_csv("titanic/train.csv")
@@ -41,10 +41,11 @@ test_new <- combi[892:1309, ]
 test_new$Survived <- NULL
 
 # build dt model
+set.seed(10)
 survived_tree <- rpart(Survived ~ Age + Sex + Pclass + family_size, data = train_new, 
                        method = "class", control = rpart.control(cp = 0.0001))
 # plot tree
-fancyRpartPlot(survived_tree, caption = "Who will survived?")
+fancyRpartPlot(survived_tree, caption = "Who will survive?")
 
 # make prediction
 survived_prediction <- predict(survived_tree, test_new, type = "class")
