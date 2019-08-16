@@ -11,24 +11,24 @@ unique(squads$country)
 
 goals <- wwc_outcomes[, .(goal = sum(score)), by = .(year, team)]
 
-goals[, year := as.factor(year)
-      ][, total := sum(goal), by = year
-        ][, prop := goal / total * 100]
-
-ggplot(goals, aes(year, prop, fill = team, group = year)) + 
-  geom_col() + 
-  coord_polar(theta = "y") + 
-  theme_bw()
+# goals[, year := as.factor(year)
+#       ][, total := sum(goal), by = year
+#         ][, prop := goal / total * 100]
+# 
+# ggplot(goals, aes(year, prop, fill = team, group = year)) + 
+#   geom_col() + 
+#   coord_polar(theta = "y") + 
+#   theme_bw()
 
 top_team <- goals[, sum(goal), by = team][order(-V1)][1:10, team]
-code2 <- data.table(team = top_team, 
+codes2 <- data.table(team = top_team, 
                     code = c("US", "DE", "NO", "SE", "BR", "CN", "GB", "JP", "AU", "CA"))
 
 goals2 <- goals[team %in% top_team][, all_goal := sum(goal), by = team]
 goals2[codes, on = "team", country := i.country]
 goals2[, country := as.factor(country)
        ][, country2 := forcats::fct_reorder(country, all_goal)]
-goals2[code2, on = "team", code := i.code]
+goals2[codes2, on = "team", code := i.code]
 
 ggplot(goals2, aes(country2, goal, fill = year)) + 
   geom_chicklet(width = 0.5) + 
@@ -37,12 +37,12 @@ ggplot(goals2, aes(country2, goal, fill = year)) +
   scale_y_continuous(breaks = seq(0, 140, 20), position = "right") + 
   scale_fill_brewer(palette = "Set3") + 
   hrbrthemes::theme_ft_rc(grid = "none", plot_margin = margin(10, 10, 10, 10)) + 
-  theme(legend.position = "bottom") + 
+  theme(legend.position = c(0.75, 0.1), legend.direction = "horizontal") + 
   labs(x = "", fill = NULL, 
        title = "Top 10 Teams Scoring Most in WWC History", 
-       caption = "Source: data.world & Plot by Juby")
+       caption = "Source: data.world & Graphic: @Juby")
 
-ggsave("~/desktop/wwcgoal.png")
+ggsave(here::here("wwcgoal.png"))
 
 # -------------- #
 wwc_19 <- wwc_outcomes[year == "2019", .(scores = sum(score)), keyby = team]
