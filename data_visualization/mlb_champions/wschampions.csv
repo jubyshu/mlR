@@ -1,0 +1,115 @@
+year,team_name,winning_team,attend_times,win_times,lose_times,winning_manager,win,lose,tie,losing_team,losing_manager
+1903,Boston Red Sox,Boston Americans,1,1,0,Jimmy Collins,5,3,0,Pittsburgh Pirates,Fred Clarke
+1905,San Francisco Giants,New York Giants,1,1,0,John McGraw,4,1,0,Philadelphia Athletics,Connie Mack
+1906,Chicago White Sox,Chicago White Sox,1,1,0,Fielder Jones,4,2,0,Chicago Cubs,Frank Chance
+1907,Chicago Cubs,Chicago Cubs,2,1,1,Frank Chance,4,0,1,Detroit Tigers,Hugh Jennings
+1908,Chicago Cubs,Chicago Cubs,3,2,1,Frank Chance,4,1,0,Detroit Tigers,Hugh Jennings
+1909,Pittsburgh Pirates,Pittsburgh Pirates,2,1,1,Fred Clarke,4,3,0,Detroit Tigers,Hugh Jennings
+1910,Oakland Athletics,Philadelphia Athletics,2,1,1,Connie Mack,4,1,0,Chicago Cubs,Frank Chance
+1911,Oakland Athletics,Philadelphia Athletics,3,2,1,Connie Mack,4,2,0,New York Giants,John McGraw
+1912,Boston Red Sox,Boston Red Sox,2,2,0,Jake Stahl,4,3,1,New York Giants,John McGraw
+1913,Oakland Athletics,Philadelphia Athletics,4,3,1,Connie Mack,4,1,0,New York Giants,John McGraw
+1914,Atlanta Braves,Boston Braves,1,1,0,George Stallings,4,0,0,Philadelphia Athletics,Connie Mack
+1915,Boston Red Sox,Boston Red Sox,3,3,0,Bill Carrigan,4,1,0,Philadelphia Phillies,Pat Moran
+1916,Boston Red Sox,Boston Red Sox,4,4,0,Bill Carrigan,4,1,0,Brooklyn Robins,Wilbert Robinson
+1917,Chicago White Sox,Chicago White Sox,2,2,0,Pants Rowland,4,2,0,New York Giants,John McGraw
+1918,Boston Red Sox,Boston Red Sox,5,5,0,Ed Barrow,4,2,0,Chicago Cubs,Fred Mitchell
+1919,Cincinnati Reds,Cincinnati Reds,1,1,0,Pat Moran,5,3,0,Chicago White Sox,Kid Gleason
+1920,Cleveland Indians,Cleveland Indians,1,1,0,Tris Speaker,5,2,0,Brooklyn Robins,Wilbert Robinson
+1921,San Francisco Giants,New York Giants,6,2,4,John McGraw,5,3,0,New York Yankees,Miller Huggins
+1922,San Francisco Giants,New York Giants,7,3,4,John McGraw,4,0,1,New York Yankees,Miller Huggins
+1923,New York Yankees,New York Yankees,3,1,2,Miller Huggins,4,2,0,New York Giants,John McGraw
+1924,Minnesota Twins,Washington Senators,1,1,0,Bucky Harris,4,3,0,New York Giants,John McGraw
+1925,Pittsburgh Pirates,Pittsburgh Pirates,3,2,1,Bill McKechnie,4,3,0,Washington Senators,Bucky Harris
+1926,St. Louis Cardinals,St. Louis Cardinals,1,1,0,Rogers Hornsby,4,3,0,New York Yankees,Miller Huggins
+1927,New York Yankees,New York Yankees,5,2,3,Miller Huggins,4,0,0,Pittsburgh Pirates,Donie Bush
+1928,New York Yankees,New York Yankees,6,3,3,Miller Huggins,4,0,0,St. Louis Cardinals,Bill McKechnie
+1929,Oakland Athletics,Philadelphia Athletics,6,4,2,Connie Mack,4,1,0,Chicago Cubs,Joe McCarthy
+1930,Oakland Athletics,Philadelphia Athletics,7,5,2,Connie Mack,4,2,0,St. Louis Cardinals,Gabby Street
+1931,St. Louis Cardinals,St. Louis Cardinals,4,2,2,Gabby Street,4,3,0,Philadelphia Athletics,Connie Mack
+1932,New York Yankees,New York Yankees,7,4,3,Joe McCarthy,4,0,0,Chicago Cubs,Charlie Grimm
+1933,San Francisco Giants,New York Giants,10,4,6,Bill Terry,4,1,0,Washington Senators,Joe Cronin
+1934,St. Louis Cardinals,St. Louis Cardinals,5,3,2,Frank Frisch,4,3,0,Detroit Tigers,Mickey Cochrane
+1935,Detroit Tigers,Detroit Tigers,5,1,4,Mickey Cochrane,4,2,0,Chicago Cubs,Charlie Grimm
+1936,New York Yankees,New York Yankees,8,5,3,Joe McCarthy,4,2,0,New York Giants,Bill Terry
+1937,New York Yankees,New York Yankees,9,6,3,Joe McCarthy,4,1,0,New York Giants,Bill Terry
+1938,New York Yankees,New York Yankees,10,7,3,Joe McCarthy,4,0,0,Chicago Cubs,Gabby Hartnett
+1939,New York Yankees,New York Yankees,11,8,3,Joe McCarthy,4,0,0,Cincinnati Reds,Bill McKechnie
+1940,Cincinnati Reds,Cincinnati Reds,3,2,1,Bill McKechnie,4,3,0,Detroit Tigers,Del Baker
+1941,New York Yankees,New York Yankees,12,9,3,Joe McCarthy,4,1,0,Brooklyn Dodgers,Leo Durocher
+1942,St. Louis Cardinals,St. Louis Cardinals,6,4,2,Billy Southworth,4,1,0,New York Yankees,Joe McCarthy
+1943,New York Yankees,New York Yankees,14,10,4,Joe McCarthy,4,1,0,St. Louis Cardinals,Billy Southworth
+1944,St. Louis Cardinals,St. Louis Cardinals,8,5,3,Billy Southworth,4,2,0,St. Louis Browns,Luke Sewell
+1945,Detroit Tigers,Detroit Tigers,7,2,5,Steve O'Neill,4,3,0,Chicago Cubs,Charlie Grimm
+1946,St. Louis Cardinals,St. Louis Cardinals,9,6,3,Eddie Dyer,4,3,0,Boston Red Sox,Joe Cronin
+1947,New York Yankees,New York Yankees,15,11,4,Bucky Harris,4,3,0,Brooklyn Dodgers,Burt Shotton
+1948,Cleveland Indians,Cleveland Indians,2,2,0,Lou Boudreau,4,2,0,Boston Braves,Billy Southworth
+1949,New York Yankees,New York Yankees,16,12,4,Casey Stengel,4,1,0,Brooklyn Dodgers,Burt Shotton
+1950,New York Yankees,New York Yankees,17,13,4,Casey Stengel,4,0,0,Philadelphia Phillies,Eddie Sawyer
+1951,New York Yankees,New York Yankees,18,14,4,Casey Stengel,4,2,0,New York Giants,Leo Durocher
+1952,New York Yankees,New York Yankees,19,15,4,Casey Stengel,4,3,0,Brooklyn Dodgers,Charlie Dressen
+1953,New York Yankees,New York Yankees,20,16,4,Casey Stengel,4,2,0,Brooklyn Dodgers,Charlie Dressen
+1954,San Francisco Giants,New York Giants,14,5,9,Leo Durocher,4,0,0,Cleveland Indians,Al Lopez
+1955,Los Angeles Dodgers,Brooklyn Dodgers,8,1,7,Walter Alston,4,3,0,New York Yankees,Casey Stengel
+1956,New York Yankees,New York Yankees,22,17,5,Casey Stengel,4,3,0,Brooklyn Dodgers,Walter Alston
+1957,Atlanta Braves,Milwaukee Braves,3,2,1,Fred Haney,4,3,0,New York Yankees,Casey Stengel
+1958,New York Yankees,New York Yankees,24,18,6,Casey Stengel,4,3,0,Milwaukee Braves,Fred Haney
+1959,Los Angeles Dodgers,Los Angeles Dodgers,10,2,8,Walter Alston,4,2,0,Chicago White Sox,Al Lopez
+1960,Pittsburgh Pirates,Pittsburgh Pirates,5,3,2,Danny Murtaugh,4,3,0,New York Yankees,Casey Stengel
+1961,New York Yankees,New York Yankees,26,19,7,Ralph Houk,4,1,0,Cincinnati Reds,Fred Hutchinson
+1962,New York Yankees,New York Yankees,27,20,7,Ralph Houk,4,3,0,San Francisco Giants,Alvin Dark
+1963,Los Angeles Dodgers,Los Angeles Dodgers,11,3,8,Walter Alston,4,0,0,New York Yankees,Ralph Houk
+1964,St. Louis Cardinals,St. Louis Cardinals,10,7,3,Johnny Keane,4,3,0,New York Yankees,Yogi Berra
+1965,Los Angeles Dodgers,Los Angeles Dodgers,12,4,8,Walter Alston,4,3,0,Minnesota Twins,Sam Mele
+1966,Baltimore Orioles,Baltimore Orioles,2,1,1,Hank Bauer,4,0,0,Los Angeles Dodgers,Walter Alston
+1967,St. Louis Cardinals,St. Louis Cardinals,11,8,3,Red Schoendienst,4,3,0,Boston Red Sox,Dick Williams
+1968,Detroit Tigers,Detroit Tigers,8,3,5,Mayo Smith,4,3,0,St. Louis Cardinals,Red Schoendienst
+1969,New York Mets,New York Mets,1,1,0,Gil Hodges,4,1,0,Baltimore Orioles,Earl Weaver
+1970,Baltimore Orioles,Baltimore Orioles,4,2,2,Earl Weaver,4,1,0,Cincinnati Reds,Sparky Anderson
+1971,Pittsburgh Pirates,Pittsburgh Pirates,6,4,2,Danny Murtaugh,4,3,0,Baltimore Orioles,Earl Weaver
+1972,Oakland Athletics,Oakland Athletics,9,6,3,Dick Williams,4,3,0,Cincinnati Reds,Sparky Anderson
+1973,Oakland Athletics,Oakland Athletics,10,7,3,Dick Williams,4,3,0,New York Mets,Yogi Berra
+1974,Oakland Athletics,Oakland Athletics,11,8,3,Alvin Dark,4,1,0,Los Angeles Dodgers,Walter Alston
+1975,Cincinnati Reds,Cincinnati Reds,7,3,4,Sparky Anderson,4,3,0,Boston Red Sox,Darrell Johnson
+1976,Cincinnati Reds,Cincinnati Reds,8,4,4,Sparky Anderson,4,0,0,New York Yankees,Billy Martin
+1977,New York Yankees,New York Yankees,31,21,10,Billy Martin,4,2,0,Los Angeles Dodgers,Tommy Lasorda
+1978,New York Yankees,New York Yankees,32,22,10,Bob Lemon,4,2,0,Los Angeles Dodgers,Tommy Lasorda
+1979,Pittsburgh Pirates,Pittsburgh Pirates,7,5,2,Chuck Tanner,4,3,0,Baltimore Orioles,Earl Weaver
+1980,Philadelphia Phillies,Philadelphia Phillies,3,1,2,Dallas Green,4,2,0,Kansas City Royals,Jim Frey
+1981,Los Angeles Dodgers,Los Angeles Dodgers,17,5,12,Tommy Lasorda,4,2,0,New York Yankees,Bob Lemon
+1982,St. Louis Cardinals,St. Louis Cardinals,13,9,4,Whitey Herzog,4,3,0,Milwaukee Brewers,Harvey Kuenn
+1983,Baltimore Orioles,Baltimore Orioles,7,3,4,Joe Altobelli,4,1,0,Philadelphia Phillies,Paul Owens
+1984,Detroit Tigers,Detroit Tigers,9,4,5,Sparky Anderson,4,1,0,San Diego Padres,Dick Williams
+1985,Kansas City Royals,Kansas City Royals,2,1,1,Dick Howser,4,3,0,St. Louis Cardinals,Whitey Herzog
+1986,New York Mets,New York Mets,3,2,1,Davey Johnson,4,3,0,Boston Red Sox,John McNamara
+1987,Minnesota Twins,Minnesota Twins,5,2,3,Tom Kelly,4,3,0,St. Louis Cardinals,Whitey Herzog
+1988,Los Angeles Dodgers,Los Angeles Dodgers,18,6,12,Tommy Lasorda,4,1,0,Oakland Athletics,Tony La Russa
+1989,Oakland Athletics,Oakland Athletics,13,9,4,Tony La Russa,4,0,0,San Francisco Giants,Roger Craig
+1990,Cincinnati Reds,Cincinnati Reds,9,5,4,Lou Piniella,4,0,0,Oakland Athletics,Tony La Russa
+1991,Minnesota Twins,Minnesota Twins,6,3,3,Tom Kelly,4,3,0,Atlanta Braves,Bobby Cox
+1992,Toronto Blue Jays,Toronto Blue Jays,1,1,0,Cito Gaston,4,2,0,Atlanta Braves,Bobby Cox
+1993,Toronto Blue Jays,Toronto Blue Jays,2,2,0,Cito Gaston,4,2,0,Philadelphia Phillies,Jim Fregosi
+1995,Atlanta Braves,Atlanta Braves,7,3,4,Bobby Cox,4,2,0,Cleveland Indians,Mike Hargrove
+1996,New York Yankees,New York Yankees,34,23,11,Joe Torre,4,2,0,Atlanta Braves,Bobby Cox
+1997,Miami Marlins,Florida Marlins,1,1,0,Jim Leyland,4,3,0,Cleveland Indians,Mike Hargrove
+1998,New York Yankees,New York Yankees,35,24,11,Joe Torre,4,0,0,San Diego Padres,Bruce Bochy
+1999,New York Yankees,New York Yankees,36,25,11,Joe Torre,4,0,0,Atlanta Braves,Bobby Cox
+2000,New York Yankees,New York Yankees,37,26,11,Joe Torre,4,1,0,New York Mets,Bobby Valentine
+2001,Arizona Diamondbacks,Arizona Diamondbacks,1,1,0,Bob Brenly,4,3,0,New York Yankees,Joe Torre
+2002,Los Angeles Angels,Anaheim Angels,1,1,0,Mike Scioscia,4,3,0,San Francisco Giants,Dusty Baker
+2003,Miami Marlins,Florida Marlins,2,2,0,Jack McKeon,4,2,0,New York Yankees,Joe Torre
+2004,Boston Red Sox,Boston Red Sox,10,6,4,Terry Francona,4,0,0,St. Louis Cardinals,Tony La Russa
+2005,Chicago White Sox,Chicago White Sox,5,3,2,Ozzie Guillén,4,0,0,Houston Astros,Phil Garner
+2006,St. Louis Cardinals,St. Louis Cardinals,17,10,7,Tony La Russa,4,1,0,Detroit Tigers,Jim Leyland
+2007,Boston Red Sox,Boston Red Sox,11,7,4,Terry Francona,4,0,0,Colorado Rockies,Clint Hurdle
+2008,Philadelphia Phillies,Philadelphia Phillies,6,2,4,Charlie Manuel,4,1,0,Tampa Bay Rays,Joe Maddon
+2009,New York Yankees,New York Yankees,40,27,13,Joe Girardi,4,2,0,Philadelphia Phillies,Charlie Manuel
+2010,San Francisco Giants,San Francisco Giants,18,6,12,Bruce Bochy,4,1,0,Texas Rangers,Ron Washington
+2011,St. Louis Cardinals,St. Louis Cardinals,18,11,7,Tony La Russa,4,3,0,Texas Rangers,Ron Washington
+2012,San Francisco Giants,San Francisco Giants,19,7,12,Bruce Bochy,4,0,0,Detroit Tigers,Jim Leyland
+2013,Boston Red Sox,Boston Red Sox,12,8,4,John Farrell,4,2,0,St. Louis Cardinals,Mike Matheny
+2014,San Francisco Giants,San Francisco Giants,20,8,12,Bruce Bochy,4,3,0,Kansas City Royals,Ned Yost
+2015,Kansas City Royals,Kansas City Royals,4,2,2,Ned Yost,4,1,0,New York Mets,Terry Collins
+2016,Chicago Cubs,Chicago Cubs,11,3,8,Joe Maddon,4,3,0,Cleveland Indians,Terry Francona
+2017,Houston Astros,Houston Astros,2,1,1,A. J. Hinch,4,3,0,Los Angeles Dodgers,Dave Roberts
+2018,Boston Red Sox,Boston Red Sox,13,9,4,Alex  Cora,4,1,0,Los Angeles Dodgers,Dave Roberts
